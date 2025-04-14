@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Sxxrya666.github.io/tictactoe-react",
+  "homepage": "https://sxxrya666.github.io/tictactoe-react",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist",
